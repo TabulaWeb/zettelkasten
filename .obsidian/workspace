@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "f85433f622d59481",
+    "type": "split",
+    "children": [
+      {
+        "id": "268b11b6a6e1b151",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "256455818aa0d929",
+    "type": "split",
+    "children": [
+      {
+        "id": "79947c0e2d518891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78be30a005373363",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e53da6dc43b6e08b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#programmin",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb854bbbdaff7b65",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afac848f2e90d4da",
+    "type": "split",
+    "children": [
+      {
+        "id": "399650ec3007bc23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f8642b044d6b236",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0d70eed3e22f6c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81fd162169e174b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29b67d58df796dac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "268b11b6a6e1b151",
+  "lastOpenFiles": [
+    "Base/Hotkey/Hotkey vscode.md",
+    "Base/Hotkey/Hotkey mac.md",
+    "Content.md",
+    "Base/Books/JS.md",
+    "Daily/2022-08-10.md",
+    "Untitled.md"
+  ]
+}

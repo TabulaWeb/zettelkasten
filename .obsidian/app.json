@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Image",
+  "promptDelete": false
+}
