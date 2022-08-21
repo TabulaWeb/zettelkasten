@@ -7,8 +7,12 @@
         "id": "268b11b6a6e1b151",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/Read/Link read.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Read/Link read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Read/Link read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Read/Link read.md"
+              }
             }
           }
         ]
@@ -122,6 +130,8 @@
   },
   "active": "268b11b6a6e1b151",
   "lastOpenFiles": [
+    "Base/Read/Link video.md",
+    "Base/Read/Link read.md",
     "Base/Hotkey/Hotkey vscode.md",
     "Base/Hotkey/Hotkey mac.md",
     "Content.md",
