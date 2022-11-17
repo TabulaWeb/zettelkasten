@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3332e05e34c91e1",
+        "id": "ff52cb762ebf7d38",
         "type": "tabs",
         "children": [
           {
-            "id": "183ff921051407de",
+            "id": "3dd1d4389b75f0fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Management/Процессы компании/Цели.md",
+                "file": "Base/Programming/__proto__ и prototype.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "492e68de23eb3547",
+            "id": "89cc7fcf056bdaf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Management/Процессы компании/01. Зачем нужны процессы.md",
+                "file": "Base/Programming/Storybook как инструмент.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Management/Процессы компании/01. Зачем нужны процессы.md",
+                "file": "Base/Programming/Storybook как инструмент.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Management/Процессы компании/01. Зачем нужны процессы.md",
+                "file": "Base/Programming/Storybook как инструмент.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Management/Процессы компании/01. Зачем нужны процессы.md"
+                "file": "Base/Programming/Storybook как инструмент.md"
               }
             }
           }
@@ -151,20 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "492e68de23eb3547",
+  "active": "89cc7fcf056bdaf5",
   "lastOpenFiles": [
-    "Base/Management/Процессы компании/02. Фундаментальные принципы.md",
-    "Base/Management/Процессы компании/01. Зачем нужны процессы.md",
-    "Base/Management/Процессы компании/00. Процессы компании.md",
-    "Base/Programming/Рендеринг в реакт.md",
-    "Base/Insights/Лучший способ учиться.md",
-    "Base/01. Процессы компании.md",
-    "Base/Books/Как читать нон-фикшен/Как читать книги для самообразования.md",
-    "Base/Management/Процессы компании/03. Система грейдов и KPI.md",
-    "Base/Management/Процессы компании/05. Источники.md",
-    "Base/Management/Процессы компании/04. Code review.md"
+    "Base/Programming/__proto__ и prototype.md",
+    "Base/Programming/Анатомия ошибки в JS.md",
+    "Base/Programming/Архитектура Frontend проектов.md",
+    "Base/Programming/WebTransport.md",
+    "Base/Programming/Storybook как инструмент.md",
+    "Base/Programming/Compound Components.md",
+    "Base/Programming/CSS-IN-JS.md",
+    "Base/Programming/Формы.md",
+    "Base/Programming/Типизация в React.md",
+    "Base/Programming/Стейт менеджеры.md"
   ]
 }
