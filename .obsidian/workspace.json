@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff52cb762ebf7d38",
+        "id": "7ae7644cc4bb90b8",
         "type": "tabs",
         "children": [
           {
-            "id": "3dd1d4389b75f0fd",
+            "id": "3031c9ef64002e53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Programming/__proto__ и prototype.md",
+                "file": "Base/Programming/Storybook как инструмент.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "89cc7fcf056bdaf5",
+            "id": "647c77557d5357b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Programming/Storybook как инструмент.md",
+                "file": "Base/Programming/Суть рефакторинга.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "685c54ac060febf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Programming/Пишем быстро на React.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,8 +76,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#productivity",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Programming/Storybook как инструмент.md",
+                "file": "Base/Programming/Суть рефакторинга.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Programming/Storybook как инструмент.md",
+                "file": "Base/Programming/Суть рефакторинга.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Programming/Storybook как инструмент.md"
+                "file": "Base/Programming/Суть рефакторинга.md"
               }
             }
           }
@@ -151,17 +164,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89cc7fcf056bdaf5",
+  "active": "647c77557d5357b4",
   "lastOpenFiles": [
-    "Base/Programming/__proto__ и prototype.md",
-    "Base/Programming/Анатомия ошибки в JS.md",
-    "Base/Programming/Архитектура Frontend проектов.md",
-    "Base/Programming/WebTransport.md",
-    "Base/Programming/Storybook как инструмент.md",
-    "Base/Programming/Compound Components.md",
-    "Base/Programming/CSS-IN-JS.md",
-    "Base/Programming/Формы.md",
+    "Base/Programming/Цели рефакторинга.md",
+    "Base/Programming/Суть рефакторинга.md",
     "Base/Programming/Типизация в React.md",
+    "Base/Programming/Storybook как инструмент.md",
+    "Base/Programming/Пишем быстро на React.md",
+    "Base/Programming/Когда рефакторинг не нужен ?.md",
+    "Base/Programming/CSS-IN-JS.md",
+    "Base/Programming/Compound Components.md",
+    "Base/Programming/Формы.md",
     "Base/Programming/Стейт менеджеры.md"
   ]
 }
