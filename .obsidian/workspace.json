@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Insights/Что такое Zettelkasten.md",
+                "file": "Base/Insights/Сторитейлинг.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Insights/Что такое Zettelkasten.md",
+                "file": "Base/Insights/Сторитейлинг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Insights/Что такое Zettelkasten.md",
+                "file": "Base/Insights/Сторитейлинг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Insights/Что такое Zettelkasten.md"
+                "file": "Base/Insights/Сторитейлинг.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "1feabcca2769adb5",
   "lastOpenFiles": [
-    "Base/Management/Менторство или как воспитать джуна.md",
+    "Base/Insights/Как учиться ?.md",
     "Base/Insights/Заметки - инструмент обучения.md",
+    "Base/Insights/Что такое Zettelkasten.md",
+    "Base/Management/Менторство или как воспитать джуна.md",
     "Base/Programming/__proto__ и prototype.md",
     "Base/Programming/Анатомия ошибки в JS.md",
     "Base/Programming/Архитектура Frontend проектов.md",
     "Base/Programming/Батчинг в React.md",
     "Base/Programming/Гидрация.md",
-    "Base/Programming/Когда рефакторинг не нужен ?.md",
-    "Base/Programming/Навыки для Алисы.md",
-    "Base/Programming/Объектно-ориентированный JavaScript.md"
+    "Base/Programming/Когда рефакторинг не нужен ?.md"
   ]
 }
