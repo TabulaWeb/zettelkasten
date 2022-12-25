@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7ae7644cc4bb90b8",
+        "id": "4cb5138de28d130d",
         "type": "tabs",
         "children": [
           {
-            "id": "3031c9ef64002e53",
+            "id": "1feabcca2769adb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Programming/Storybook как инструмент.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "647c77557d5357b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Programming/Суть рефакторинга.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "685c54ac060febf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Programming/Пишем быстро на React.md",
+                "file": "Base/Insights/Что такое Zettelkasten.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Programming/Суть рефакторинга.md",
+                "file": "Base/Insights/Что такое Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Programming/Суть рефакторинга.md",
+                "file": "Base/Insights/Что такое Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Programming/Суть рефакторинга.md"
+                "file": "Base/Insights/Что такое Zettelkasten.md"
               }
             }
           }
@@ -164,17 +137,28 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "647c77557d5357b4",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "1feabcca2769adb5",
   "lastOpenFiles": [
-    "Base/Programming/Цели рефакторинга.md",
-    "Base/Programming/Суть рефакторинга.md",
-    "Base/Programming/Типизация в React.md",
-    "Base/Programming/Storybook как инструмент.md",
-    "Base/Programming/Пишем быстро на React.md",
+    "Base/Management/Менторство или как воспитать джуна.md",
+    "Base/Insights/Заметки - инструмент обучения.md",
+    "Base/Programming/__proto__ и prototype.md",
+    "Base/Programming/Анатомия ошибки в JS.md",
+    "Base/Programming/Архитектура Frontend проектов.md",
+    "Base/Programming/Батчинг в React.md",
+    "Base/Programming/Гидрация.md",
     "Base/Programming/Когда рефакторинг не нужен ?.md",
-    "Base/Programming/CSS-IN-JS.md",
-    "Base/Programming/Compound Components.md",
-    "Base/Programming/Формы.md",
-    "Base/Programming/Стейт менеджеры.md"
+    "Base/Programming/Навыки для Алисы.md",
+    "Base/Programming/Объектно-ориентированный JavaScript.md"
   ]
 }

@@ -1,3 +1,9 @@
+#tag
+
+> **Ключевая идея:**
+> _«»_
+
+
 https://habr.com/ru/post/589507/
 https://habr.com/ru/company/getmatch/blog/544466/
 https://habr.com/ru/post/663456/

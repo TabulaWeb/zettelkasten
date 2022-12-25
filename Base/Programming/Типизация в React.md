@@ -1,2 +1,2 @@
 
-https://habr.com/ru/post/693558/
+https://habr.com/ru/post/694832/
