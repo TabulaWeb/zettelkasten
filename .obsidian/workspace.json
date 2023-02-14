@@ -11,8 +11,13 @@
             "id": "46306ae4439ccb90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Content.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "afac848f2e90d4da",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Programming/frontend-roadmap/Как работает браузер.md",
+                "file": "Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Programming/frontend-roadmap/Как работает браузер.md",
+                "file": "Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Programming/frontend-roadmap/Как работает браузер.md"
+                "file": "Content.md"
               }
             }
           }
@@ -143,17 +148,17 @@
       "canvas:Create new canvas": true
     }
   },
-  "active": "78be30a005373363",
+  "active": "46306ae4439ccb90",
   "lastOpenFiles": [
-    "Content.md",
-    "Заметка.md",
-    "tabulaweb31_A_programmer_tries_to_understand_how_a_browser_work_4ee10447-c5a3-4fc7-a3ef-3fdbaf675b3c.png",
-    "Image/Снимок экрана 2022-09-20 в 05.52.19.png",
-    "Books/Books.md",
-    "Base/Insights/Заметки - инструмент обучения.md",
-    "Base/Books/TED Talks.md",
-    "Без названия 1.md",
-    "Без названия.md",
-    "Base/Programming/frontend-roadmap/Тесты для фронтенд разработчика.md"
+    "Base/Programming/Какработает Event loop.md",
+    "Base/Programming/Render в браузере.md",
+    "Base/Programming/TCP IP.md",
+    "Base/Programming/FLUX архитектура.md",
+    "Base/Programming/VPS VDS.md",
+    "Base/Programming/CI CD.md",
+    "Base/Programming/Авторизация.md",
+    "Base/Programming/Оффлайн.md",
+    "Base/Programming/Стратегии рендеринга.md",
+    "Base/Programming/Рендеринг в реакт.md"
   ]
 }
